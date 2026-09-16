@@ -2,3 +2,4 @@ Student Name: Pelon
 Student ID: 2021-9159-95863
 Section: BSCS 2B
 Course: CS 106 - App Dev
+Topic: Git Bash Fundamentals
